@@ -1,0 +1,30 @@
+Dollaro Statunitense
+USD
+1.11
+Yen Giapponese
+JPY
+119.19
+Sterlina Britannica
+GBP
+0.87
+Dollaro Australiano
+AUD
+1.68
+Dollaro Canadese
+CAD
+1.49
+Franco Svizzero
+CHF
+1.07
+Renminbi cinese
+CNH
+7.75
+Corona Svedese
+SEK
+10.58
+Dollaro Neozelandese
+NZD
+1.76
+Euro
+EUR
+1.0
